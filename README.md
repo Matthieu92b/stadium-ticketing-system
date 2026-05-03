@@ -68,6 +68,8 @@ sbt compile
 
 ## Lancer le projet
 
+lancer chcp 65001 pour voir les caractères spéciaux
+
 ### 1. Analyseur réseau de Pétri
 
 Génère l'espace d'états complet, vérifie les invariants et les propriétés LTL :
